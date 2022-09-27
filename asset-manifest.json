@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a52b2fc3.css",
+    "main.js": "/static/js/main.70600503.js",
+    "static/media/Industry-Bold.eot": "/static/media/Industry-Bold.650c9a91f2a9ffae7004.eot",
+    "static/media/Industry-Bold.ttf": "/static/media/Industry-Bold.b4b470025f7e0eb52768.ttf",
+    "static/media/Industry-Black.eot": "/static/media/Industry-Black.3813b74049125e1a6338.eot",
+    "static/media/Industry-Black.ttf": "/static/media/Industry-Black.49874be0456e4def109b.ttf",
+    "static/media/Industry-Medium.eot": "/static/media/Industry-Medium.d8d02b623ca848fc8e55.eot",
+    "static/media/Industry-Medium.ttf": "/static/media/Industry-Medium.4496bb55348b7d9b0744.ttf",
+    "static/media/Industry-Bold.woff": "/static/media/Industry-Bold.d596e4f90d88be57d316.woff",
+    "static/media/Industry-Black.woff": "/static/media/Industry-Black.5164080d4116c1c5788f.woff",
+    "static/media/Industry-Medium.woff": "/static/media/Industry-Medium.ae5488ef547d7fe61eea.woff",
+    "static/media/wallet-connect.svg": "/static/media/wallet-connect.304e327744ae5c9b1b62b58f50df6734.svg",
+    "static/media/logo.png": "/static/media/logo.2358ad5758c58b76cf4c.png",
+    "index.html": "/index.html",
+    "main.a52b2fc3.css.map": "/static/css/main.a52b2fc3.css.map",
+    "main.70600503.js.map": "/static/js/main.70600503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52b2fc3.css",
+    "static/js/main.70600503.js"
+  ]
+}
